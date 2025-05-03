@@ -28,7 +28,7 @@ I work with a variety of technologies including:
 ---
 
 ## 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app//?username=Adonay-Dev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app//?username=Adonay-Dev)](https://github.com/Adonay-Dev)
 
 
 ---

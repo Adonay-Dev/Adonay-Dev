@@ -33,5 +33,5 @@ I work with a variety of technologies including:
 
 ---
 
-                    Thanks again for stopping by — and happy coding! 🚀
+                Thanks again for stopping by — and happy coding! 🚀
 ---

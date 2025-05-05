@@ -24,11 +24,14 @@ I work with a variety of technologies including:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adonay-Dev&show_icons=true&theme=default)
+&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonay-Dev&layout=compact&langs_count=10&theme=default)
 
 ---
 
 ## 🏆 Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app//?username=Adonay-Dev)](https://github.com/Adonay-Dev)
+
 
 
 ---

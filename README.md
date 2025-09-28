@@ -78,9 +78,9 @@
          style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
   </a>
 
-  <a href="https://github.com/Adonay-Dev/go-NetFlow" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Adonay-Dev/faydauth" target="_blank" style="text-decoration:none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adonay-Dev&repo=faydauth&theme=default" 
-         alt="go-NetFlow" 
+         alt="faydauth" 
          style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
   </a>
 

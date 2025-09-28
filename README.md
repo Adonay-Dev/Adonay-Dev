@@ -1,20 +1,26 @@
-<p align="center">
+<div align="center">
+
+## 👋 Hi there! Welcome to my GitHub.
+  Explore my projects and feel free to connect if something sparks your interest.
+
+
+<p>
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-    <img src="dist/github-snake.svg" alt="Snake Contribution Graph" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+    <!-- Light mode -->
+    <img src="dist/github-snake.svg" alt="Snake Contribution Graph" 
+         style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); max-width:100%; height:auto;" />
   </picture>
 </p>
 
-
-
-    Hi there! I’m glad you’re visiting my GitHub.  
-Feel free to explore my projects, check out my work, and connect if something catches your eye.
-
-<img src="https://streak-stats.demolab.com?user=Adonay-Dev&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=Adonay-Dev&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" 
+       alt="Streak Graph" 
+       style="max-width:100%; height:auto; margin-top:20px;" />
+</p>
 
 </div>
-
----
 
 
 <div align="center">

@@ -25,7 +25,6 @@ Feel free to explore my projects, check out my work, and connect if something ca
   <img src="https://skillicons.dev/icons?i=go,linux,typescript,react,nextjs,docker,kubernetes,postgresql,mongodb,tailwind,graphql,grafana,py,elasticsearch" height="100" />
 </div>
 
----
 ## 🚀 Projects 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
@@ -42,6 +41,15 @@ Feel free to explore my projects, check out my work, and connect if something ca
   </a>
 </div>
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <a href="https://github.com/Adonay-Dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adonay-Dev&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
@@ -56,18 +64,9 @@ Feel free to explore my projects, check out my work, and connect if something ca
 
 
 ---
-## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adonay-Dev)](https://github.com/Adonay-Dev)
-
----
-
-
-
----
 ## 💻✨ Currently Working On
-
-Here are some projects I’m actively developing and improving:  
+    Here are some projects I’m actively developing and improving on  
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
@@ -90,10 +89,6 @@ Here are some projects I’m actively developing and improving:
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Adonay-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Adonay-Dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Adonay-Dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/Adonay-Dev"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://dev.to/Adonay-Dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
     <a href="https://medium.com/@AdonayT"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>

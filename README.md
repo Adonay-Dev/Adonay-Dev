@@ -88,20 +88,13 @@
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://dev.to/Adonay-Dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-    <a href="https://medium.com/@AdonayT"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
----
-
 <div align="center" style="margin-top:40px; padding-top:20px; border-top:1px solid #eaeaea; display:flex; justify-content:center; align-items:center; gap:10px;">
 
       Thanks again for stopping By
 </div>
 <div align="right" style="margin-top:40px; font-size:12px;">
+  <a href="https://dev.to/Adonay-Dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+    <a href="https://medium.com/@AdonayT"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adonay-Dev.Adonay-Dev" height="20" />
 

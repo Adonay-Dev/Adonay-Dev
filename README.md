@@ -1,15 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
     <img src="dist/github-snake.svg" alt="Snake Contribution Graph" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
   </picture>
 </p>
 
-<p align="center">
-  <img src="dist/ocean.gif" alt="Animated Snake Graph" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-</p>
-<div align="center">
+
 
     Hi there! I’m glad you’re visiting my GitHub.  
 Feel free to explore my projects, check out my work, and connect if something catches your eye.

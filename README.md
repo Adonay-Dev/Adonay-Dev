@@ -14,84 +14,9 @@
   </picture>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Adonay-Dev&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" 
-       alt="Streak Graph" 
-       style="max-width:100%; height:auto; margin-top:20px;" />
-</p>
 
 </div>
 
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,linux,typescript,react,nextjs,docker,kubernetes,postgresql,mongodb,tailwind,graphql,grafana,py,elasticsearch" height="100" />
-</div>
-
-## 🚀 Projects 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <a href="https://github.com/Adonay-Dev/goflow2" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adonay-Dev&repo=goflow2&theme=default" 
-         alt="goflow2" 
-         style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-
-  <a href="https://github.com/Adonay-Dev/go-NetFlow" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adonay-Dev&repo=DFIR-IRIS-Templates&theme=default" 
-         alt="go-NetFlow" 
-         style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-</div>
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <a href="https://github.com/Adonay-Dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adonay-Dev&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <div style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15); overflow:hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adonay-Dev&show_icons=true&theme=default" 
-         alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonay-Dev&layout=compact&theme=default" 
-         alt="Top Languages" />
-  </div>
-</div>
-
-
----
-
-## 💻✨ Currently Working On
-    Here are some projects I’m actively developing and improving on  
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-
-  <a href="https://github.com/Adonay-Dev/goflow2" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adonay-Dev&repo=goflow2&theme=default" 
-         alt="goflow2" 
-         style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-
-  <a href="https://github.com/Adonay-Dev/faydauth" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adonay-Dev&repo=faydauth&theme=default" 
-         alt="faydauth" 
-         style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-
-</div>
-
----
-
-<div align="center" style="margin-top:40px; padding-top:20px; border-top:1px solid #eaeaea; display:flex; justify-content:center; align-items:center; gap:10px;">
-
-      Thanks again for stopping By
-</div>
 <div align="right" style="margin-top:40px; font-size:12px;">
   <a href="https://dev.to/Adonay-Dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
     <a href="https://medium.com/@AdonayT"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
